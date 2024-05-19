@@ -10,8 +10,8 @@ The IPL Score Prediction Model is a sophisticated machine learning solution desi
 # Key Features
 Comprehensive Data Analysis: The model conducts an in-depth analysis of historical IPL match data to identify key factors influencing match scores.
 Feature Engineering: It employs sophisticated feature engineering techniques to extract meaningful insights from diverse datasets, enhancing prediction accuracy.
-Machine Learning Algorithms: Utilizing state-of-the-art machine learning algorithms such as Random Forest, Gradient Boosting, and Support Vector Regression, the model generates robust predictions.
-Evaluation and Validation: Rigorous evaluation metrics including Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R^2) score ensure the reliability and accuracy of predictions.
+Machine Learning Algorithms: Utilizing state-of-the-art machine learning algorithms such as Neural Networks, Convolutional Neural Networks, and Recurrent Neural Networks, the model generates robust predictions.
+Evaluation and Validation: Rigorous evaluation metrics including Mean Absolute Error (MAE), Mean Squared Error (MSE), and Huber Loss score ensure the reliability and accuracy of predictions.
 Usage
 Data Collection: Gather comprehensive IPL match data from reliable sources, including player statistics, match venue details, and historical match outcomes.
 Data Preprocessing: Preprocess the raw data to handle missing values, encode categorical variables, and normalize features, ensuring data consistency and quality.
